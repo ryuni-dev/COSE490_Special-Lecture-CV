@@ -1,28 +1,28 @@
 # Input 
 ### Test image for assignment 1 
   
-![input](test_image.jpg)
+<img src="test_image.jpg" width="600" height="400"/>
 
 ### Input CDF 
-![input-cdf](assets/input_cdf.png)
+<img src="assets/input_cdf.png" width="600" height="400"/>
 
 ### Input Histogram
-![input-hist](assets/input_hist.png)
+<img src="assets/input_hist.png" width="600" height="400"/>
 
 # After Histogram Equalization
-![he](assets/he.png)
+<img src="assets/he.png" width="600" height="400"/>
 
 ### CDF 
-![he-cdf](assets/he_cdf.png)
+<img src="assets/he_cdf.png" width="600" height="400"/>
 
 ### Histogram
-![he-hist](assets/he_hist.png)
+<img src="assets/he_hist.png" width="600" height="400"/>
 
 # After Adaptive Histogram Equalization
-![ahe](assets/ahe.png)
+<img src="assets/ahe.png" width="600" height="400"/>
 
 ### CDF 
-![ahe-cdf](assets/ahe_cdf.png)
+<img src="assets/ahe_cdf.png" width="600" height="400"/>
 
 ### Histogram
-![ahe-hist](assets/ahe_hist.png)
+<img src="assets/ahe_hist.png" width="600" height="400"/>
