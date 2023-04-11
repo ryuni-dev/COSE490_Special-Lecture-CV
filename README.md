@@ -10,7 +10,7 @@
 ### Implement frequency domain filters
   * myLPF.m : Low-pass Filter
   * myHBF.m : High-boost Filter
-  * myNotch.m : Notch filte
+  * myNotch.m : Notch filter
 
 ## [Assignment 3](/Assignment3-Level_set_method/READMD.md)
 ### Implement a level-set image segmentation method
